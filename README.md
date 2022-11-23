@@ -1,6 +1,6 @@
 ### Olá, meu nome é Felipe Antônio!
 
-- 🧬 Tenho 20 anos.
+- 🧬 Tenho 21 anos.
 - 👨🏾‍🎓 Estudante de Ciências da Computação pela Universidade Federal de Goiás.
 
 <div align="center">
