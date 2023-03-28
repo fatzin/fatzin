@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Felipe</h1>
 <h3 align="center">Estudante de Ciência da Computação na UFG</h3>
 
-- 🌐 Sou desenvolvedor Web e tenho preferência por HTML, CSS, JavaScript (com React) e TypeScript
+- 🌐 Sou desenvolvedor Web e tenho preferência por HTML, CSS, JavaScript (com React) e TypeScript.
 
-- 📫 Me contate em **felipe_second@hotmail.com**
+- 📫 Me contate em **felipe_second@hotmail.com**.
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
